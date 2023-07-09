@@ -1,0 +1,78 @@
+.h-center{
+    text-align: center;
+}
+.main-color{
+    color: blue;
+}
+.divall{
+    text-align: center;
+    color: green;
+}
+
+/* 5-6-23 All combination */
+.card{
+    text-align: center;
+    background-color: cadetblue;
+}
+.main-heading{
+    color: blue;
+
+    /* style for text*/
+    font-family: "Verdana";
+    font-size: 60px;
+    font-style: italic;
+    font-weight: normal;
+    text-decoration: underline;
+}
+.paragraph{
+    color: blueviolet;
+}
+.background{
+    background-image: url('https://img.freepik.com/free-photo/beautiful-tropical-empty-beach-sea-ocean-with-white-cloud-blue-sky-background_74190-13668.jpg?w=360&t=st=1686238314~exp=1686238914~hmac=153b5d947063ab402232212ba5a6b3e25e2996d6f2d05190ca490ba0ec3ad499');
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+}
+.button{
+    height: 30px;
+    width: 132px;
+    background-color: aquamarine;
+    color: white;
+    border-radius: 25px;
+}
+
+
+
+
+.card {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png');
+    height: 100vh;
+    background-size: cover;
+    text-align: center;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+
+.para {
+    text-align: left;
+    font-size: 13px;
+}
+
+.button {
+    height: 35px;
+    width: 70px;
+    font-weight: bold;
+    background-color: orange;
+    border-width: 2px;
+    color: white;
+}
+
+.underline {
+    text-decoration: underline;
+    font-size: 10px;
+    font-style: normal;
+}
+
+.paragraph {
+    font-size: 13px;
+}
