@@ -1,0 +1,13 @@
+.detailed-view-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.detailed-heading{
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 24px;
+}
+
