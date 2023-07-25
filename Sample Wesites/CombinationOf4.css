@@ -1,0 +1,205 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+/*Home Page*/
+.home-image {
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
+}
+
+.homeHeading {
+    font-family: "Bree Serif";
+    font-size: 20px;
+    text-align: center;
+    color: #183b56;
+}
+
+.homePara {
+    font-family: "Bree Serif";
+    font-size: 12px;
+    text-align: center;
+    color: #616e7c;
+}
+
+.homeImage1 {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.homeImage2 {
+    margin-bottom: 10px;
+}
+
+/*Tech*/
+.techbg-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.techcard {
+    padding: 18px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.techheading {
+    font-family: "Bree Serif";
+    font-weight: 500;
+    font-size: 20px;
+    color: #5752ab;
+}
+
+.techpara {
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 15px;
+    color: #323f4b;
+}
+
+.techbutton-container {
+    font-family: Roboto;
+    border-radius: 8px;
+    font-size: 12px;
+    height: 35px;
+    width: 120px;
+    padding: 4px;
+    border-color: #d7dfe9;
+}
+
+.techbutton1 {
+    background-color: white;
+    color: #171f46;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.techbutton2 {
+    background-color: #5752ab;
+    color: #ffffff;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+/*Diwali page*/
+
+.diwalibg-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png');
+    height: 35vh;
+    background-size: cover;
+}
+
+.diwaliheading {
+    font-size: 35px;
+    color: white;
+    font-family: "Caveat";
+    font-weight: bold;
+    padding: 20px;
+    width: 200px;
+}
+
+.diwalibottom-session {
+    background-color: #e6f6ff;
+    height: 120vh;
+    text-align: center;
+}
+
+.diwalicard-item {
+    background-color: white;
+    text-align: center;
+    height: 220px;
+    width: 220px;
+    font-size: 8px;
+    border-radius: 20px;
+    margin: 50px;
+}
+
+.diwalicard-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.diwalicard-image {
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+}
+
+.diwalicard-rupee {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+/*Meals*/
+.mealsbg-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.mealscard {
+    background-color: #f6c56e;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 15px;
+}
+
+.mealsheader {
+    font-family: "Bree Serif";
+    color: #323f4b;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.mealspara {
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.mealsbutton {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    width: 120px;
+    height: 38px;
+    border-width: 0px;
+    border-radius: 8px;
+}
+
+/*News*/
+.newsbg-image {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png');
+    background-size: cover;
+    height: 100vh;
+}
+
+.newscard {
+    background-color: #ffffff;
+    font-family: "Roboto";
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.newscard-heading {
+    font-size: 20px;
+    color: #323f4b;
+    margin-bottom: 15px;
+}
+
+.newscard-para {
+    font-size: 10px;
+    color: #7b8794;
+}
+
+.newsbutton {
+    background-color: #323f4b;
+    color: #ffffff;
+    border-radius: 8px;
+    height: 35px;
+    width: 110px;
+    font-size: 13px;
+}
