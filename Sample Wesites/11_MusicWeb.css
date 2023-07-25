@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.homePageTopBackground {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-stars-bg.png');
+    background-size: cover;
+    height: 50vh;
+}
+
+.homePageFullColor {
+    background-color: #03174c;
+    height: 150vh;
+}
+
+.homeTopCard {
+    padding: 70px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.homePageHdings {
+    font-family: "Bree Serif";
+    font-size: 26px;
+    font-weight: 500;
+}
+
+.homePagePgraph {
+    font-family: "Bree Serif";
+    font-size: 15px;
+}
+
+.homeCenterAndBottomCard {
+    margin: 30px;
+}
+
+.homePageCenterBackground {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png');
+    background-size: cover;
+    height: 180px;
+    width: 300px;
+    border-radius: 10px;
+}
+
+.homeBottomCard {
+    padding: 5px;
+    color: #ffffff;
+    text-align: center;
+}
+
+.homeBottomButton {
+    background-color: #8e97fd;
+    font-family: "Bree Serif";
+    font-size: 12px;
+    height: 25px;
+    width: 90px;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+/*Detail View Card*/
+
+.bottomDescription {
+    padding: 15px;
+}
+
+.detailViewHding {
+    font-family: "Bree Serif";
+    font-size: 26px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.detailViewPgraph {
+    font-family: "Bree Serif";
+    font-size: 15px;
+    color: #98a1bd;
+}
+
+.relatedMusicImages {
+    margin-right: 14px;
+}
+
+.relatedMusicHding {
+    font-family: "Bree Serif";
+    font-size: 17px;
+    font-weight: 500;
+    color: #ffffff;
+}
+
+.relatedMusicDescription {
+    margin-right: 68px;
+}
+
+.relatedMusicDuration {
+    margin-right: 27px;
+}
